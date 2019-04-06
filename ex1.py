@@ -7,7 +7,6 @@ import numpy.linalg
 from scipy.misc import imread
 import scipy.misc
 import matplotlib.pyplot as plt
-import imageio
 
 
 def show_and_save_image(dictionary, centroids, k):
